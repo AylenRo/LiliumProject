@@ -5,10 +5,21 @@
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-	"usedAddons": [],
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"version": "r293.3",
+			"bundled": false
+		}
+	],
 	"uniqueId": "k492tg7a0mk",
 	"objectTypes": {
-		"items": [],
+		"items": [
+			"prueba"
+		],
 		"subfolders": []
 	},
 	"autosaveData": null,
@@ -130,7 +141,7 @@
 	"properties": {
 		"description": "",
 		"version": "1.0.0.0",
-		"author": "",
+		"author": "Nozomi",
 		"authorEmail": "",
 		"authorWebsite": "",
 		"appId": "",
