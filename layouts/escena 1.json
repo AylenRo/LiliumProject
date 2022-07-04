@@ -5,38 +5,8 @@
 			"name": "Capa 0",
 			"overriden": 0,
 			"subLayers": [],
-			"instances": [
-				{
-					"type": "prueba",
-					"properties": {
-						"initially-visible": true,
-						"initial-animation": "Animation 1",
-						"initial-frame": 0,
-						"enable-collisions": true,
-						"live-preview": false
-					},
-					"uid": 2,
-					"instanceVariables": {},
-					"behaviors": {},
-					"world": {
-						"x": 1032,
-						"y": 485,
-						"width": 250,
-						"height": 250,
-						"originX": 0.5,
-						"originY": 0.5,
-						"color": [
-							1,
-							1,
-							1,
-							1
-						],
-						"angle": 0,
-						"zElevation": 0
-					}
-				}
-			],
-			"sid": 131364630231907,
+			"instances": [],
+			"sid": 212353827981899,
 			"effectTypes": [],
 			"isInitiallyVisible": true,
 			"isInitiallyInteractive": true,
@@ -65,11 +35,11 @@
 			"global": false
 		}
 	],
-	"sid": 181512121333216,
+	"sid": 848318216204682,
 	"nonworld-instances": [],
 	"effectTypes": [],
-	"width": 3840,
-	"height": 2160,
+	"width": 8000,
+	"height": 4096,
 	"unboundedScrolling": false,
 	"vpX": 0.5,
 	"vpY": 0.5,

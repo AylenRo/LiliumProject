@@ -1,25 +1,14 @@
 {
 	"projectFormatVersion": 1,
 	"savedWithRelease": 29303,
-	"name": "LiliumProject",
+	"name": "Lilium",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
-	"usedAddons": [
-		{
-			"type": "plugin",
-			"id": "Sprite",
-			"name": "Sprite",
-			"author": "Scirra",
-			"version": "r293.3",
-			"bundled": false
-		}
-	],
-	"uniqueId": "k492tg7a0mk",
+	"usedAddons": [],
+	"uniqueId": "ichjfo2po01",
 	"objectTypes": {
-		"items": [
-			"prueba"
-		],
+		"items": [],
 		"subfolders": []
 	},
 	"autosaveData": null,
@@ -66,47 +55,7 @@
 				{
 					"name": "icono-16.png",
 					"type": "image/png",
-					"sid": 713092211593835,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-32.png",
-					"type": "image/png",
-					"sid": 904357574910800,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-64.png",
-					"type": "image/png",
-					"sid": 426036266357507,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-128.png",
-					"type": "image/png",
-					"sid": 348538372906201,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-256.png",
-					"type": "image/png",
-					"sid": 890469221978502,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-512.png",
-					"type": "image/png",
-					"sid": 855522424020638,
+					"sid": 593168999070995,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -114,9 +63,49 @@
 				{
 					"name": "logo-carga.png",
 					"type": "image/png",
-					"sid": 570245686013426,
+					"sid": 153716455313763,
 					"icon-info": {
 						"purpose": "loading-logo"
+					}
+				},
+				{
+					"name": "icono-32.png",
+					"type": "image/png",
+					"sid": 210459171957482,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-256.png",
+					"type": "image/png",
+					"sid": 896042079180931,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-512.png",
+					"type": "image/png",
+					"sid": 400449563193282,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-64.png",
+					"type": "image/png",
+					"sid": 783285597859474,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-128.png",
+					"type": "image/png",
+					"sid": 854424457858746,
+					"icon-info": {
+						"purpose": "app-icon"
 					}
 				}
 			],
@@ -141,7 +130,7 @@
 	"properties": {
 		"description": "",
 		"version": "1.0.0.0",
-		"author": "Nozomi",
+		"author": "",
 		"authorEmail": "",
 		"authorWebsite": "",
 		"appId": "",
@@ -187,7 +176,7 @@
 		"cordovaiOSScheme": "app",
 		"cordovaAndroidScheme": "https"
 	},
-	"viewportWidth": 1920,
-	"viewportHeight": 1080,
+	"viewportWidth": 4000,
+	"viewportHeight": 2048,
 	"firstLayout": null
 }
