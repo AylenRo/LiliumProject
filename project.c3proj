@@ -1,12 +1,12 @@
 {
 	"projectFormatVersion": 1,
 	"savedWithRelease": 29303,
-	"name": "Lilium",
+	"name": "Lilium project",
 	"runtime": "c3",
 	"useWorker": "auto",
 	"bundleAddons": false,
 	"usedAddons": [],
-	"uniqueId": "ichjfo2po01",
+	"uniqueId": "6ju17e2azhz",
 	"objectTypes": {
 		"items": [],
 		"subfolders": []
@@ -55,39 +55,15 @@
 				{
 					"name": "icono-16.png",
 					"type": "image/png",
-					"sid": 593168999070995,
+					"sid": 469862660023288,
 					"icon-info": {
 						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "logo-carga.png",
-					"type": "image/png",
-					"sid": 153716455313763,
-					"icon-info": {
-						"purpose": "loading-logo"
 					}
 				},
 				{
 					"name": "icono-32.png",
 					"type": "image/png",
-					"sid": 210459171957482,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-256.png",
-					"type": "image/png",
-					"sid": 896042079180931,
-					"icon-info": {
-						"purpose": "app-icon"
-					}
-				},
-				{
-					"name": "icono-512.png",
-					"type": "image/png",
-					"sid": 400449563193282,
+					"sid": 754724188454758,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -95,7 +71,7 @@
 				{
 					"name": "icono-64.png",
 					"type": "image/png",
-					"sid": 783285597859474,
+					"sid": 219708002354223,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
@@ -103,7 +79,31 @@
 				{
 					"name": "icono-128.png",
 					"type": "image/png",
-					"sid": 854424457858746,
+					"sid": 268200493618095,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "logo-carga.png",
+					"type": "image/png",
+					"sid": 494417474275190,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				},
+				{
+					"name": "icono-512.png",
+					"type": "image/png",
+					"sid": 358272418777793,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icono-256.png",
+					"type": "image/png",
+					"sid": 832819946373347,
 					"icon-info": {
 						"purpose": "app-icon"
 					}
